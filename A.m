@@ -1,5 +1,5 @@
 #import "A.h"
-@implementation A
+@implementation HelloWorld
 
 - (void) start
 {
