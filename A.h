@@ -1,6 +1,6 @@
 #import<Foundation/Foundation.h>
 
-@interface HelloWord : NSObject
+@interface HelloWorld : NSObject
 
 -(void)start;
 
