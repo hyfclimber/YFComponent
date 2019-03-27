@@ -11,4 +11,9 @@
     NSLog(@"Goodbye Pod");
 }
 
+- (void) success
+{
+    NSLog(@"success.");
+}
+
 @end

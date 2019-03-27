@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "HelloYF"
-  s.version          = "0.2.0"
+  s.version          = "0.3.0"
   s.summary          = "A Test Component."
   s.homepage         = "https://github.com/hyfclimber/YFComponent"
   s.license          = { :type => "MIT", :file => "LICENSE" }

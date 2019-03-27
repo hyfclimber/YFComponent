@@ -2,7 +2,7 @@
 
 @interface HelloWorld : NSObject
 
--(void)start;
+- (void) start;
 - (void) end;
-
+- (void) success;
 @end
