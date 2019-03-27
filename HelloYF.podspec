@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author           = { "haoyifeng" => "411168256@qq.com" }
   s.source           = { :git => "https://github.com/hyfclimber/YFComponent.git", :tag => s.version.to_s  }
   s.requires_arc = true
-  s.ios.deployment_target = "9.0"
+  s.ios.deployment_target = "8.0"
   
   s.frameworks      = 'Foundation'
   s.public_header_files = "*.h"
