@@ -3,5 +3,6 @@
 @interface HelloWorld : NSObject
 
 -(void)start;
+- (void) end;
 
 @end

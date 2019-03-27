@@ -6,4 +6,9 @@
     NSLog(@"Hello Pod.");
 }
 
+- (void) end
+{
+    NSLog(@"Goodbye Pod");
+}
+
 @end
